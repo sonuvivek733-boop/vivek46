@@ -1,2 +1,5 @@
-# vivek46
-"Hello Worls.java"
+public class HeloWorld{
+  public static void main(String[] agrs){
+    System.out.println("Hello world !");
+  }
+}
